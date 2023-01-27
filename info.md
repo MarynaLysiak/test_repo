@@ -4,4 +4,5 @@
 
 **git commit -am "message"** = git add + git commit -m
 
-
+**git add** - добавить файл или файлы к следующему коммиту
+ 
